@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="MemoryPagingManagement:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MemoryPagingManagement_jar</output-path>
+    <root id="root">
+      <element id="archive" name="MemoryPagingManagement.jar">
+        <element id="module-output" name="MemoryPagingManagement" />
+      </element>
+    </root>
+  </artifact>
+</component>
